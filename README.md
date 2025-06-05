@@ -12,12 +12,6 @@ Sou **Estatístico** com atuação em políticas públicas, especialmente na ár
 
 Tenho experiência consolidada em **Power BI, Python, PostgreSQL, QGIS e automação de processos (ETL)**. Possuo formação em Estatística pela UFPA e atualmente curso especialização em Ciência de Dados, com foco em Machine Learning e Engenharia de Dados.
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
 ## Customizing
 
 ### Configuration variables
