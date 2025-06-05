@@ -1,4 +1,4 @@
-# The Minimal theme
+# Elberth Sales
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
@@ -6,17 +6,11 @@
 
 ![Thumbnail of Minimal](thumbnail.png)
 
-## Usage
+## 👨‍💼 Sobre Mim
 
-To use the Minimal theme:
+Sou **Estatístico** com atuação em políticas públicas, especialmente na área ambiental e de saúde. Atualmente trabalho como **Técnico em Meio Ambiente e Sustentabilidade na SEMAS/PA**, onde aplico ciência de dados para fortalecer a regularização ambiental e subsidiar decisões estratégicas por meio de análises espaciais, relatórios técnicos e dashboards interativos.
 
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+Tenho experiência consolidada em **Power BI, Python, PostgreSQL, QGIS e automação de processos (ETL)**. Possuo formação em Estatística pela UFPA e atualmente curso especialização em Ciência de Dados, com foco em Machine Learning e Engenharia de Dados.
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
